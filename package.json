@@ -1,0 +1,57 @@
+{
+  "name": "vibe-react",
+  "version": "1.0.2",
+  "description": "Vibe Dashboard React Theme",
+  "author": "Nice Dash",
+  "homepage": "http://nicedash.com",
+  "copyright": "Copyright 2019 Nice Dash",
+  "private": true,
+  "dependencies": {
+    "@binance-chain/bsc-connector": "^1.0.0",
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "@ethersproject/bytes": "5.4.0",
+    "@ethersproject/providers": "^5.4.1",
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.60",
+    "@mui/icons-material": "5.0.0",
+    "@mui/material": "^5.0.0",
+    "@web3-react/core": "^6.1.9",
+    "@web3-react/injected-connector": "^6.0.7",
+    "@web3-react/walletconnect-connector": "^6.2.7",
+    "chartist": "0.10.1",
+    "classnames": "2.3.1",
+    "axios": "0.24.0",
+    "coin-address-validator": "1.0.4-1",
+    "ethers": "^5.4.6",
+    "history": "5.0.0",
+    "js-sha3": "0.8.0",
+    "lint": "^1.1.2",
+    "perfect-scrollbar": "1.5.1",
+    "prop-types": "15.7.2",
+    "react": "17.0.2",
+    "react-chartist": "0.14.4",
+    "react-dom": "17.0.2",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "4.0.3",
+    "react-swipeable-views": "0.13.9",
+    "reactstrap": "6.4.0",
+    "web3": "^1.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

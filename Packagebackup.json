@@ -1,0 +1,46 @@
+{
+    "name": "vibe-react",
+    "version": "1.0.2",
+    "description": "Vibe Dashboard React Theme",
+    "author": "Nice Dash",
+    "homepage": "http://nicedash.com",
+    "copyright": "Copyright 2019 Nice Dash",
+    "private": true,
+    "dependencies": {
+      "@binance-chain/bsc-connector": "^1.0.0",
+      "@material-ui/core": "^4.12.3",
+      "@web3-react/core": "^6.1.9",
+      "@web3-react/injected-connector": "^6.0.7",
+      "@web3-react/walletconnect-connector": "^6.2.4",
+      "bootstrap": "^4.3.1",
+      "chart.js": "^2.9.4",
+      "classnames": "^2.2.6",
+      "ethers": "^5.1.4",
+      "node-sass": "^6.0.1",
+      "react": "^16.8.1",
+      "react-chartjs-2": "2.6.4",
+      "react-dom": "^16.8.1",
+      "react-feather": "^1.1.6",
+      "react-fontawesome": "1.6.1",
+      "react-router-dom": "^4.3.1",
+      "react-scripts": "^4.0.3",
+      "reactstrap": "6.4.0",
+      "web3": "^1.2.5"
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+      "extends": "react-app"
+    },
+    "browserslist": [
+      ">0.2%",
+      "not dead",
+      "not ie <= 11",
+      "not op_mini all"
+    ]
+  }
+  
